@@ -1,4 +1,5 @@
 **Spotify Homepage Clone**
+
 A responsive and visually captivating clone of the Spotify homepage, designed to showcase frontend development skills using HTML and CSS. 
 This project replicates the aesthetics of the popular music streaming platform, emphasizing a clean and user-friendly design.
 
