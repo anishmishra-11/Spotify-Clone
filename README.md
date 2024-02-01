@@ -9,7 +9,7 @@ This project replicates the aesthetics of the popular music streaming platform, 
 2. CSS Styling: Employed advanced CSS techniques to create a visually appealing and engaging interface.
 
 Usage
-To explore the Spotify Homepage Clone, either access the [live demo here](https://spotify-clone-jet-sigma.vercel.app/)
+To explore the Spotify Homepage Clone, either access the [live demo here](https://homepage-clone-jet-sigma.vercel.app/)
 or follow these steps for local deployment:
 
 1. Clone the repository to your local machine.
